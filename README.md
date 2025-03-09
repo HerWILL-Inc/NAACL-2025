@@ -1,6 +1,6 @@
 # HerWILL@DravidianLangTech 2025: Ensemble Approach for Misogyny Detection in Memes Using Pre-trained Text and Vision Transformers
 - **Authors:** Neelima Monjusha Preeti, Trina Chakraborty, Noor Mairukh Khan Arnob, Saiyara Mahmud, Azmine Toushik Wasi
-- **Accepted** to the NAACL 2025 Workshop DravidianLangTech!
+- **Accepted** at the NAACL 2025 Workshop DravidianLangTech!
 - **OpenReview:**(https://openreview.net/forum?id=qGXhBfpyCy&)
 <p align="center">
   <img src="Flowchart_malyalam.png" alt="Alt text" width="600"/>
