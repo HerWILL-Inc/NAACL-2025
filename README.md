@@ -23,5 +23,5 @@
 |./tamil-codemixed-abusive-MuRIL   | openai/clip-vit-base-patch32 | 0.7575  | 0.8174  |
 ## Error Analysis for Malayalam
 <p align="center">
-  <img src="confusion_matrix.PNG" alt="Alt text" width="500"/>
+  <img src="confusion_matrix.PNG" alt="Alt text" width="400"/>
 </p>
