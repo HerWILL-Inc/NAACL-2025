@@ -21,3 +21,7 @@
 | ai4bharat/IndicBERTv2-MLM-only  | openai/clip-vit-base-patch32   | 0.7643   | **0.8455**    |
 | PosteriorAI/dravida_llama2_7b  | zer0int/CLIP-GmP-ViT-L-14  | **0.7800**   | 0.8427  |
 |./tamil-codemixed-abusive-MuRIL   | openai/clip-vit-base-patch32 | 0.7575  | 0.8174  |
+## Error Analysis for Malayalam
+<p align="center">
+  <img src="confusion_matrix.PNG" alt="Alt text" width="500"/>
+</p>
