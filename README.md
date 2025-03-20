@@ -2,7 +2,7 @@
 - **Authors:** Neelima Monjusha Preeti, Trina Chakraborty, Noor Mairukh Khan Arnob, Saiyara Mahmud, Azmine Toushik Wasi
 - **Accepted** at the NAACL 2025 Workshop DravidianLangTech!
 - **OpenReview:**(https://openreview.net/forum?id=qGXhBfpyCy&)
-- Give our paper a read [here]("https://github.com/HerWILL-Inc/NAACL-2025/blob/main/118_HerWILL_DravidianLangTech_.pdf")
+- Give our paper a read [here](https://github.com/HerWILL-Inc/NAACL-2025/blob/main/118_HerWILL_DravidianLangTech_.pdf)
 <p align="center">
   <img src="Flowchart_malyalam.png" alt="Alt text" width="600"/>
 </p>
