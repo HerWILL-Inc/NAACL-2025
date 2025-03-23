@@ -3,6 +3,7 @@
 - **Accepted** at the NAACL 2025 Workshop DravidianLangTech!
 - **OpenReview:**(https://openreview.net/forum?id=qGXhBfpyCy&)
 - Give our paper a read [here](https://github.com/HerWILL-Inc/NAACL-2025/blob/main/118_HerWILL_DravidianLangTech_.pdf)
+- We achieved 2nd place at the misogynistic meme detection competition. [Competition page](https://codalab.lisn.upsaclay.fr/competitions/20856)
 <p align="center">
   <img src="Flowchart_malyalam.png" alt="Alt text" width="600"/>
 </p>
