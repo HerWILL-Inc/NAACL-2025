@@ -2,7 +2,7 @@
 - **Authors:** Neelima Monjusha Preeti, Trina Chakraborty, Noor Mairukh Khan Arnob, Saiyara Mahmud, Azmine Toushik Wasi
 - **Accepted** at the NAACL 2025 Workshop DravidianLangTech!
 - **OpenReview:**(https://openreview.net/forum?id=qGXhBfpyCy&)
-- Give our paper a read [here](https://github.com/HerWILL-Inc/NAACL-2025/blob/main/118_HerWILL_DravidianLangTech_.pdf)
+- Give our paper a read [here](https://aclanthology.org/2025.dravidianlangtech-1.63/)
 - We achieved 2nd place at the misogynistic meme detection competition. [Competition page](https://codalab.lisn.upsaclay.fr/competitions/20856)
 <p align="center">
   <img src="Flowchart_malyalam.png" alt="Alt text" width="600"/>
@@ -27,3 +27,16 @@
 <p align="center">
   <img src="confusion_matrix.PNG" alt="Alt text" width="400"/>
 </p>
+
+## Citation
+If you use my code or ideas from our paper in your work, please cite our paper.
+
+```
+@inproceedings{preeti2025herwill,
+  title={HerWILL@ DravidianLangTech 2025: Ensemble Approach for Misogyny Detection in Memes Using Pre-trained Text and Vision Transformers},
+  author={Preeti, Neelima Monjusha and Chakraborty, Trina and Arnob, Noor Mairukh Khan and Mahmud, Saiyara and Wasi, Azmine Toushik},
+  booktitle={Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages},
+  pages={355--360},
+  year={2025}
+}
+```
