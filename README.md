@@ -29,7 +29,7 @@
 </p>
 
 ## Citation
-If you use my code or ideas from our paper in your work, please cite our paper.
+If you use our code or ideas from our paper in your work, please cite our paper.
 
 ```
 @inproceedings{preeti2025herwill,
